@@ -27,8 +27,19 @@ body {
 /* STYLE */
 header {
     background-color: #404eed;
-    flex-basis: 500px;
+    flex-basis: 400px;
 }
 
+section {
+    flex-basis: 650px;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.gray {
+    background-color: #f6f6f6;
+}
 
 /* /STYLE */
