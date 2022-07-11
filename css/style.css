@@ -1,0 +1,13 @@
+/* GENERALI */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 1.2rem;
+}
+
+/* /GENERALI */
