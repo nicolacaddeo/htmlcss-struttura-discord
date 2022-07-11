@@ -1,4 +1,4 @@
-/* GENERALI */
+/* GENERALS RULES */
 * {
     margin: 0;
     padding: 0;
@@ -10,4 +10,16 @@ body {
     line-height: 1.2rem;
 }
 
-/* /GENERALI */
+/* /GENERALS RULES */
+
+/* UTILITIES */
+.flex-container {
+    display: flex;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* /UTILITIES */
