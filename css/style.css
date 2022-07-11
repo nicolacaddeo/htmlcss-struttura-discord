@@ -25,7 +25,10 @@ body {
 /* /UTILITIES */
 
 /* STYLE */
-
+header {
+    background-color: #404eed;
+    flex-basis: 500px;
+}
 
 
 /* /STYLE */
