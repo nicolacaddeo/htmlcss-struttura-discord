@@ -34,6 +34,11 @@ section {
     flex-basis: 650px;
 }
 
+footer {
+    background-color: #23272a;
+    flex-basis: 400px;
+}
+
 .white {
     background-color: #fff;
 }
