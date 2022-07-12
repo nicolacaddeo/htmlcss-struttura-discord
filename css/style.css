@@ -43,4 +43,11 @@ footer {
     background-color: #f6f6f6;
 }
 
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
 /* /STYLE */
